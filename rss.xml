@@ -4,8 +4,15 @@
         <description><![CDATA[Crizarella]]></description>
         <link>https://thegrid.ai/crizarella/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 18:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 18:03:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/crizarella/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BE IN THE MOMENT.</p>]]></description>
+            <link>https://thegrid.ai/crizarella/i-love-myself-and-i-wish-for-my-best/index.html</link>
+            <guid isPermaLink="false">f5b211ec-4aa9-4cac-ac98-03a3ea922255</guid>
+            <pubDate>Thu, 05 May 2016 18:03:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/531726be-d44e-490b-89a6-2e6faa09500e.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/crizarella/you-can/index.html</link>
             <guid isPermaLink="false">e950cffa-8f9c-466b-8330-f9fa1f75249f</guid>
             <pubDate>Thu, 05 May 2016 17:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I love myself and I wish for my best.</p>]]></description>
-            <link>https://thegrid.ai/crizarella/i-love-myself-and-i-wish-for-my-best/index.html</link>
-            <guid isPermaLink="false">f5b211ec-4aa9-4cac-ac98-03a3ea922255</guid>
-            <pubDate>Thu, 05 May 2016 17:42:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
