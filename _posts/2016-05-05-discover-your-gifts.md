@@ -6,10 +6,11 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T17:34:53.545Z'
-dateModified: '2016-05-05T17:34:03.966Z'
+datePublished: '2016-05-05T17:37:06.924Z'
+dateModified: '2016-05-05T17:36:22.320Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-discover-your-gifts.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-discover-your-gifts.md
 _type: Blurb
 
 ---
