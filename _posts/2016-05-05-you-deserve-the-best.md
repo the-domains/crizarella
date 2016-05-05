@@ -6,10 +6,11 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Weekly thought
-datePublished: '2016-05-05T17:30:16.532Z'
-dateModified: '2016-05-05T17:30:00.048Z'
+datePublished: '2016-05-05T17:31:02.401Z'
+dateModified: '2016-05-05T17:30:25.350Z'
 author: []
 title: You deserve the best.
+sourcePath: _posts/2016-05-05-you-deserve-the-best.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-you-deserve-the-best.md
 _type: Blurb
 
 ---
