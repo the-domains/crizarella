@@ -1,0 +1,28 @@
+name: Crizarella
+favicon: null
+layout_spectrum: 0.44368390389718115
+typography_spectrum: 0.7983592676464468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.46455955714918673
+  lightness: 0.1252533858641982
+  saturation: 0.2796719465404749
+  rhythmicContrast: 0.3599062205757946
+purpose: []
