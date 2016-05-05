@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I love myself and I wish for my best.
-datePublished: '2016-05-05T17:40:46.460Z'
-dateModified: '2016-05-05T17:40:46.077Z'
+datePublished: '2016-05-05T17:42:37.384Z'
+dateModified: '2016-05-05T17:42:03.868Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-i-love-myself-and-i-wish-for-my-best.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-i-love-myself-and-i-wish-for-my-best.md
 url: i-love-myself-and-i-wish-for-my-best/index.html
 _type: Article
 
